@@ -23,7 +23,8 @@ A REST API for a social media app. Built with Express, Mongoose, and MongoDB.
 
 ## Usage
 
-Run the following command: npm start
+* Run the following command: npm start
+* Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the REST API.
 
 ## Contribution
 Made by **Davit Shirkhanyan**
