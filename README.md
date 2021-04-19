@@ -6,6 +6,8 @@
 
 A REST API for a social media app. Built with Express, Mongoose, and MongoDB. Users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
+![social](https://user-images.githubusercontent.com/74809116/115177374-ef3f6000-a083-11eb-9827-5da2cba8f781.gif)
+
 ## Built with
 
 * Node.js
