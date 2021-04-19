@@ -4,7 +4,7 @@
 
 ## Description
 
-A REST API for a social media app. Built with Express, Mongoose, and MongoDB.
+A REST API for a social media app. Built with Express, Mongoose, and MongoDB. Users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 ## Built with
 
@@ -12,6 +12,7 @@ A REST API for a social media app. Built with Express, Mongoose, and MongoDB.
 * MVC
 * Mongoose
 * MongoDB
+* Express.js
 
 ## Installation and Setup Instructions
 
